@@ -1,5 +1,4 @@
 var load = document.getElementById("loading");
-
 window.onload = lun;
 
 function lun() {
@@ -7,7 +6,7 @@ function lun() {
 }
 
 var dialog = document.getElementsByClassName("dialog")[0];
-var variableBorder = 1;
+var variableBorder = 2;
 var changeBorder = setInterval(change, 300);
 
 function change() {
