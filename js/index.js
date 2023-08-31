@@ -38,19 +38,19 @@ var dialogs = {
     },
     value4: function() {
         texts = "Everything is connected...";
-        timer = 150;
+        timer = 90;
     },
     value5: function() {
-        texts = "Error: eleAche was here.";
-        timer = 200;
+        texts = "Error: unknown.";
+        timer = 90;
     },
     value6: function() {
-        texts = "eleAche: ";
-        timer = 400;
+        texts = "eleAche: Hello.";
+        timer = 90;
     },
     value7: function() {
-        texts = "Hola, neo";
-        timer = 400;
+        texts = "Follow the white rabbit...";
+        timer = 120;
     }
 };
 
